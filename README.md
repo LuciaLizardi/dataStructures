@@ -6,4 +6,3 @@ Repository of the Data structures:
 <br> Sets
 
 
-<br>Implemented with Arrays.
